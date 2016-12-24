@@ -1,0 +1,5 @@
+#GeoTopologySuite 0.0.1 
+
+#scala
+
+Initial release of GeoTopologySuite
